@@ -1,0 +1,80 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+body{
+	margin-top: -12px;
+	padding-top: 0;
+}
+
+#iconos{
+	background: #64BFA3;
+	text-align: center;
+}
+
+.icono{
+	display: inline-block;
+}
+
+img{
+	padding-bottom: 5px;
+	width: 80px;
+}
+
+h4{
+	text-align: center;
+	padding-top: 12px;
+	color: white;
+}
+
+h5{
+	text-align: center;
+	color: white;
+	padding-top: -8px;
+}
+
+h6{
+	text-align: center;
+	color: white;
+	padding-bottom: 6px;
+}
+
+#Bares{
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+#myCanvas{
+	background-color: #4C977C;
+	height: 110px;
+	position: relative;
+	width: 100%;
+	margin-top: -10px;
+}
+
+#mapa{
+	height: 350px;
+	width: 100%;
+}
+
+#map{
+	height: 350px;
+	width: 100%;
+	margin-top: -4px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
